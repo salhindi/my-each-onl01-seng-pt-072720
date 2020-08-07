@@ -1,4 +1,4 @@
-def my_each(array)
+def my_each(tas)
   i = 0
   collection = []
   while i < array.length
