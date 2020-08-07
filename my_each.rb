@@ -1,5 +1,5 @@
 def my_each(words) # put argument(s) here
-words = "hi", "hello", "bye", "goodbye"  # code here
+i = 0 # code here
 while i < words.length
 end
   yield(words[i])
