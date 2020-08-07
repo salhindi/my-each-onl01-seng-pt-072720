@@ -7,4 +7,6 @@ end
   i = 0
   my_each.each do |item|
     item = i 
+    i += 1
+    
 end
