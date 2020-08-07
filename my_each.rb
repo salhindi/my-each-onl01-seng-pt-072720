@@ -7,3 +7,5 @@ def my_each(words)
 end
 
 def my_each(tas)
+  i=0
+  
