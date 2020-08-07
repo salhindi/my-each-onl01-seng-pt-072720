@@ -11,4 +11,5 @@ def my_each(tas)
   collection = []
   while i < tas.length
   collection.push yeild(words[i])
+  i += 1
   
