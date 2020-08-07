@@ -5,5 +5,6 @@ my_each.each do |words|
 end
   yields
   i = 0
-  my_each.each do |
+  my_each.each do |item|
+    item = i 
 end
