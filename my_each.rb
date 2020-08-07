@@ -5,5 +5,5 @@ def my_each(tas)
   collection << yield(tas[i])
     i += 1
   end
-  collection.join(" ")
+  collection.join
 end
