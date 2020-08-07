@@ -10,4 +10,4 @@ def my_each(tas)
   i=0
   collection = []
   while i < tas.length
-  
+  collection.push 
