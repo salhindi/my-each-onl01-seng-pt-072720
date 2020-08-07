@@ -1,4 +1,5 @@
-def my_each # put argument(s) here
+def my_each(words) # put argument(s) here
 words = "hi", "hello", "bye", "goodbye"  # code here
-
+my_each.each do |words|
+  
 end
