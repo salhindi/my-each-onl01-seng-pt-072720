@@ -1,8 +1,8 @@
 def my_each(tas)
   i = 0
   collection = []
-  while i < array.length
-  collection << yield(array[i])
+  while i < tas.length
+  collection << yield(tas[i])
     i += 1
   end
   collection
