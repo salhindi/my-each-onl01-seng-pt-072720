@@ -6,12 +6,3 @@ def my_each(words)
   end
 end
 
-def my_each(tas)
-  i=0
-  collection = []
-  while i < tas.length
-  collection.push yeild(words[i])
-  i += 1
-end
-collection
-end
