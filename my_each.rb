@@ -8,4 +8,5 @@ end
 
 def my_each(tas)
   i=0
+  collection = []
   
